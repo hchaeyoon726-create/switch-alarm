@@ -1,8 +1,8 @@
 import requests
 import os
 
-TOKEN = os.environ["8842448019:AAGS3AMLr0ZiVQurYtWC_d3TzrbCk-y1QVo"]
-CHAT_ID = os.environ["7899800092"]
+TOKEN = os.environ["TOKEN"]
+CHAT_ID = os.environ["CHAT_ID"]
 
 URL = "https://store.nintendo.co.kr/beeskb6aakor"
 
